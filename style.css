@@ -1,0 +1,35 @@
+*{
+    
+    margin: 0 ;
+    padding: 0;}
+
+
+
+header{width: 100%;}
+
+
+.container{width: 1140px;
+margin: 0 auto;}
+
+.main {display:flex ;}
+
+
+.Logo{flex-basis:  20%; padding-right: 20px;}
+
+.menu{flex-basis: 60%;}
+
+
+.button{flex-basis: 20%;
+padding-left: 20px;}
+
+
+
+
+
+
+
+ul{margin: 0;padding: 0;}
+
+
+li{list-style: none;
+display: inline-block;margin: 15px;text-transform: uppercase;}
